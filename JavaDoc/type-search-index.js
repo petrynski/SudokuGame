@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Cell"},{"p":"<Unnamed>","l":"ChangedValueListener"},{"p":"<Unnamed>","l":"GridGenerator"},{"p":"<Unnamed>","l":"GUI"},{"p":"<Unnamed>","l":"Sudoku"},{"p":"<Unnamed>","l":"Timer"},{"p":"<Unnamed>","l":"Validator"},{"p":"<Unnamed>","l":"winPopup"}]
